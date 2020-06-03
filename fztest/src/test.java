@@ -16,4 +16,7 @@ public class test {
     public static void mengfei() {
         System.out.println("mengfei");
     }
+    public static void piaozhiyuan() {
+        System.out.println("piaozhiyuan");
+    }
 }
