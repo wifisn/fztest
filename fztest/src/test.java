@@ -19,5 +19,11 @@ public class test {
     public static void lvyitao() {
         System.out.println("lvyitao");
     }
+    public static void piaozhiyuan() {
+        System.out.println("piaozhiyuan");
+    }
+    public static void shenxin() {
+        System.out.println("shenxin");
+    }
 
 }
