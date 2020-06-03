@@ -13,4 +13,7 @@ public class test {
     public static void zhangpeng() {
         System.out.println("zhangpeng");
     }
+    public static void mengfei() {
+        System.out.println("mengfei");
+    }
 }
